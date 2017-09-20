@@ -1,7 +1,7 @@
 {
   "version": "0.0.2a",
-  "access_key_id": "LTAIhTHNPDeqLJVF",
-  "access_key_secret": "aL51rGgAXWukPrRTyNbmovjpr1fMGv",
+  "access_key_id": "",
+  "access_key_secret": "",
   "watching_dir": "./nas/",
   "num_threads": 2,
   "main_loop_sleep": 10,

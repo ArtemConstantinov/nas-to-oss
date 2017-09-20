@@ -1,0 +1,13 @@
+aliyun-python-sdk-core==2.3.2
+aliyun-python-sdk-sts==2.1.6
+argh==0.26.2
+certifi==2017.4.17
+chardet==3.0.4
+crcmod==1.7
+idna==2.5
+oss2==2.3.2
+pathtools==0.1.2
+PyYAML==3.12
+requests==2.18.1
+urllib3==1.21.1
+watchdog==0.8.3

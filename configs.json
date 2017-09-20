@@ -1,0 +1,29 @@
+{
+  "version": "0.0.2a",
+  "access_key_id": "LTAIhTHNPDeqLJVF",
+  "access_key_secret": "aL51rGgAXWukPrRTyNbmovjpr1fMGv",
+  "watching_dir": "./nas/",
+  "num_threads": 2,
+  "main_loop_sleep": 10,
+  "uploads_targets":
+  [
+    {
+      "bucket_name": "gdtest-1",
+      "endpoint": "http://oss-cn-shanghai.aliyuncs.com",
+      "nas_folders":
+      [
+        "demo1",
+        "demo2"
+      ]
+    },
+    {
+      "bucket_name": "som-bu",
+      "endpoint": "http://oss-cn-hangzhou.aliyuncs.com",
+      "nas_folders":
+      [
+        "demo3",
+        "demo1"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 aliyun-python-sdk-core==2.3.2
 aliyun-python-sdk-sts==2.1.6
 argh==0.26.2
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.4
 crcmod==1.7
 idna==2.5
